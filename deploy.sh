@@ -13,8 +13,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# Jacqueline712/mondaylab-blog 替换为自己的用户名和对应的仓库名
-# 意思为将master构建后的代码合并到gh-pages分支上，然后在gh-pages分支上部署~
-git push -f git@github.com:wangml-gitbub/wangmeiling.github.io.git main:gh-pages
+# 意思为将 master 构建后的代码合并到gh-pages分支上，然后在 gh-pages 分支上部署~
+git push -f git@github.com:wangmeiling/vitepress-demo-mondaylab.git master:gh-pages
 
 cd -
