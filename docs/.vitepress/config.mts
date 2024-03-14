@@ -11,7 +11,7 @@ export default defineConfig({
     nav,
     sidebar,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/wangml-gitbub?tab=repositories' }
     ],
     // 文章右边目录导航
     outline: {
