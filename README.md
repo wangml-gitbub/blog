@@ -1,2 +1,2 @@
-# wangmeiling.github.io
+# blog
 this is a personal blog

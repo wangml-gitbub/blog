@@ -3,7 +3,7 @@ import { nav, sidebar } from './config-modules'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/wangmeiling.github.io/',
+  base: '/blog/',
   title: "小王的日记",
   description: "A VitePress Site",
   themeConfig: {
